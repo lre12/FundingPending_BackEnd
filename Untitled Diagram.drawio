@@ -1,4 +1,4 @@
-<mxfile modified="2021-03-12T18:17:43.498Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="XBLkv38kr-hLJFmnSWQh" version="14.4.8" type="github">
+<mxfile modified="2021-03-12T18:17:54.272Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="t_6SpHrvUcR4Q0vYaAdB" version="14.4.8" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="886" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -28,8 +28,8 @@
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-47" value="SE 서버 구조도" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="55.5" y="65.5" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-48" value="상상코딩" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="55.5" y="115.5" width="70" height="20" as="geometry" />
+        <mxCell id="-QjtrjUzRDEMRZ5MF8oH-48" value="상상코딩 by 손우진" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="55.5" y="115.5" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SCVMTBWpLvtzJIhz15lM-1" value="" style="line;strokeWidth=2;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="51.5" y="140.5" width="1060" height="10" as="geometry" />
